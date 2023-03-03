@@ -1,2 +1,2 @@
-# teste-t-cnico-Target
+# teste-tecnico-Target
 JavaScript
